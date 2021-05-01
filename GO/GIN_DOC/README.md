@@ -1,7 +1,7 @@
 ---
 sort: 1
 ---
-# GIN
+# Gin 必备知识
 
 {% include list.liquid %}
 
