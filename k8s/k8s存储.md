@@ -136,6 +136,8 @@ volume 的类型为“ persistentVolumeClaim”。在容器应用挂载了一个
 
 ### 资源回收（Reclaiming）
 
-对于PV ， 管理员可以设定回收策略（ Reclaim Policy ），用于设置与之绑定的PVC 释放资源之后，对于遗留数据如何处理。只有PV 的存储空间完成回收，才能供新的PVC 绑定和使用。回收策略详见下节的说明。
+对于PV ， 管理员可以设定回收策略（ Reclaim Policy ），用于设置与之绑定的PVC 释放资源之后，对于遗留数据如何处理。只有PV 的存储空间完成回收，才能供新的PVC 绑定和使用。
 
 下面通过两张图分别对在静态资源供应模式和动态资源供应模式下， PV 、PVC 、StorageClass及Pod 使用PVC 的原理进行说明。
+
+![image-20210518160138641](k8s存储.assets/image-20210518160138641.png)
