@@ -141,3 +141,4 @@ volume 的类型为“ persistentVolumeClaim”。在容器应用挂载了一个
 下面通过两张图分别对在静态资源供应模式和动态资源供应模式下， PV 、PVC 、StorageClass及Pod 使用PVC 的原理进行说明。
 
 ![image-20210518160138641](k8s存储.assets/image-20210518160138641.png)
+

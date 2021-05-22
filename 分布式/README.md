@@ -32,5 +32,7 @@ sort: 2
 
 
 
+在学习的过程中，接触到了[这个社区](https://jimmysong.io/)，与云计算、云原生等相关。里面有非常多的[电子书](https://jimmysong.io/book/)，对于我这种初学者非常有帮助。
+
 {% include list.liquid %}
 
